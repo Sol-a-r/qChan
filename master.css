@@ -1,0 +1,71 @@
+body  {
+  background-color: #222222;
+  color: #ccffcc;
+  font-family: 'Ubuntu', sans-serif;
+}
+.inputform {
+  background-color: #4d4d4d;
+  border-style: solid;
+  border-width: .5px;
+  border-color: #ccffcc;
+  border-radius: 1px;
+  padding: 50px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+
+input {
+  background-color: #222222;
+  border-style: solid;
+  border-color: #ccffcc;
+  border-radius: 1px;
+  border-width: .6px;
+  color: #ccffcc;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+}
+
+p {
+  background-color: #4d4d4d;
+  border-style: solid;
+  border-width: .5px;
+  border-color: #ccffcc;
+  border-radius: 1px;
+  margin-right: 75%;
+  padding: 50px;
+  padding-top: 20px;
+  padding-left: 20px;
+  display: table;
+}
+
+h3 {
+  background-color: #4d4d4d;
+  border-style: solid;
+  border-width: .5px;
+  border-color: #ccffcc;
+  border-radius: 1px;
+  padding: 15px;
+
+}
+.post_box {
+	float: right;
+}
+
+.refresh {
+  background-color: #222222;
+  border-style: solid;
+  border-color: #ccffcc;
+  border-radius: 1px;
+  border-width: .6px;
+  color: #ccffcc;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+}
+
+.error {
+  color: #ccffcc;
+  font-style: italic;
+  font-size: 15px;
+  text-decoration: underline;
+}
